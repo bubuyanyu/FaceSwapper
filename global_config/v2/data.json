@@ -4,7 +4,7 @@
     "data": {
         "global_config": [
             {
-                "build": 1731492742,
+                "build": 1711492742,
                 "app_version_range_min": "1.0.0",
                 "app_version_range_max": "99.99.99",
                 "new_user_trial_count": 2,
@@ -21,7 +21,7 @@
         ],
         "app_alert_config": [
             {
-                "build": 1731492743,
+                "build": 1711492742,
                 "show_times": 3,
                 "skip_enable": false,
                 "app_version_range_min": "1.0.0",
