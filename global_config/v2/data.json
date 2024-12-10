@@ -4,16 +4,16 @@
     "data": {
         "global_config": [
             {
-                "build": 1731492742,
+                "build": 1733796214,
                 "app_version_range_min": "1.0.0",
                 "app_version_range_max": "99.99.99",
-                "new_user_trial_count": 2,
+                "new_user_trial_count": 1,
                 "launch_purchase_skip_delay_secs": 3.0,
                 "ss": [
                     {
-                        "t": "8",
+                        "t": "f",
                         "o": [
-                            "j4"
+                            "k1"
                         ]
                     }
                 ]
