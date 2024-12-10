@@ -4,7 +4,7 @@
     "data": {
         "global_config": [
             {
-                "build": 1733797141,
+                "build": 1733797876,
                 "app_version_range_min": "1.0.0",
                 "app_version_range_max": "99.99.99",
                 "new_user_trial_count": 1,
@@ -16,7 +16,7 @@
                             "j1",
                             "j2",
                             "j3",
-                            "j4"
+                            "k1"
                         ]
                     }
                 ]
