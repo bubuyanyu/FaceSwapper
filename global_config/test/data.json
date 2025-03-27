@@ -4,11 +4,12 @@
     "data": {
         "global_config": [
             {
-                "build": 1733796214,
+                "build": 1743053171,
                 "app_version_range_min": "1.0.0",
                 "app_version_range_max": "99.99.99",
                 "new_user_trial_count": 1,
                 "launch_purchase_skip_delay_secs": 3.0,
+                "apiBaseUrl": "https://app.topaifusion.com",
                 "ss": [
                     {
                         "t": "f",
