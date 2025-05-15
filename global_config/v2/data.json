@@ -4,19 +4,17 @@
     "data": {
         "global_config": [
             {
-                "build": 1733882386,
+                "build": 1747272566,
                 "app_version_range_min": "1.0.0",
                 "app_version_range_max": "99.99.99",
                 "new_user_trial_count": 1,
                 "launch_purchase_skip_delay_secs": 3.0,
+                "api_base_url": "https://fwapi.topaifusion.com",
                 "ss": [
                     {
                         "t": "f",
                         "o": [
-                            "k1",
-                            "j1",
-                            "j2",
-                            "j3"
+                            "k1"
                         ]
                     }
                 ]
