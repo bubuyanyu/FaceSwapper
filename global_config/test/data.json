@@ -22,11 +22,11 @@
         ],
         "app_alert_config": [
             {
-                "build": 1747704000,
+                "build": 1747704001,
                 "show_times": 3,
                 "skip_enable": false,
-                "app_version_range_min": "1.0.0",
-                "app_version_range_max": "2.0.5",
+                "app_version_range_min": "1.0.0(1)",
+                "app_version_range_max": "2.0.5(27)",
                 "title": "",
                 "body": "We apologize for the inconvenience. To enhance your experience, we’ve upgraded our service, and you’ll need to update to the latest version (2.1.0) from the App Store. Once updated, you’ll be able to resume using it."
             }
