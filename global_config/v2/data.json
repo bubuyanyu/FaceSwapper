@@ -4,7 +4,7 @@
     "data": {
         "global_config": [
             {
-                "build": 1747272570,
+                "build": 1747704000,
                 "app_version_range_min": "1.0.0",
                 "app_version_range_max": "99.99.99",
                 "new_user_trial_count": 1,
@@ -22,13 +22,13 @@
         ],
         "app_alert_config": [
             {
-                "build": 1731492743,
+                "build": 1747792843,
                 "show_times": 3,
                 "skip_enable": false,
-                "app_version_range_min": "1.0.0",
-                "app_version_range_max": "1.0.0",
+                "app_version_range_min": "1.0.0(1)",
+                "app_version_range_max": "2.0.4(26)",
                 "title": "",
-                "body": "We apologize for the inconvenience. To enhance your experience, we’ve upgraded our service, and you’ll need to update to the latest version (1.2.0) from the App Store. Once updated, you’ll be able to resume using it."
+                "body": "The service has been upgraded, and the current version will no longer work. Please update to the latest version (2.10.0)."
             }
         ]
     }
