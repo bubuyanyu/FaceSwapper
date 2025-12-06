@@ -4,12 +4,12 @@
     "data": {
         "global_config": [
             {
-                "build": 1747794236,
+                "build": 1764000000,
                 "app_version_range_min": "2.0.5(27)",
                 "app_version_range_max": "99.99.99",
                 "new_user_trial_count": 1,
                 "launch_purchase_skip_delay_secs": 3.0,
-                "api_base_url": "https://fwapi.topaifusion.com",
+                "api_base_url": "https://wvocpr68gf.execute-api.us-east-1.amazonaws.com/v1",
                 "ss": [
                     {
                         "t": "f",
@@ -22,7 +22,7 @@
         ],
         "app_alert_config": [
             {
-                "build": 1747792844,
+                "build": 1747792843,
                 "show_times": 3,
                 "skip_enable": false,
                 "app_version_range_min": "1.0.0(1)",
