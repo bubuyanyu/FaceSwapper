@@ -1,0 +1,14 @@
+{
+    "code": 200,
+    "message": "success",
+    "data": {
+        "global_config": [
+            {
+                "build": 1773806297,
+                "app_version_range_min": "2.0.5(27)",
+                "app_version_range_max": "99.99.99",
+                "api_base_url": "https://fwapi.topaifusion.com"
+            }
+        ]
+    }
+}
